@@ -1,0 +1,29 @@
+<application>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda/bin/python.app" value="true" />
+        <entry key="$USER_HOME$/git/orders/env/bin/python" value="true" />
+        <entry key="/usr/bin/python" value="false" />
+        <entry key="vagrant:///Users/jdiggans/git/orders/server/orders_venv/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda/bin/python.app" value="true" />
+        <entry key="/usr/bin/python" value="false" />
+        <entry key="vagrant:///Users/jdiggans/git/orders/server/orders_venv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda/bin/python.app" value="false" />
+        <entry key="/usr/bin/python" value="false" />
+        <entry key="vagrant:///Users/jdiggans/git/orders/server/orders_venv/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
