@@ -1,226 +1,27 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 2.7.10 (/usr/bin/python)" />
+      <name value="Python 2.7.3 (/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
       <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="/usr/bin/python" />
+      <version value="Python 2.7.3" />
+      <homePath value="/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
       <roots>
         <classPath>
           <root type="composite">
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/nose-1.3.3-py2.7.egg" />
             <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-1.4.1-py2.7.egg" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
             <root type="simple" url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages" />
             <root type="simple" url="file:///Library/Python/2.7/site-packages" />
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/348993582" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.10 virtualenv at ~/git/orders/env" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="$USER_HOME$/git/orders/env/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/git/twistdb" />
-            <root type="simple" url="file://$USER_HOME$/git/Custom_Vector" />
-            <root type="simple" url="file://$USER_HOME$/git/twist-excel" />
-            <root type="simple" url="file://$USER_HOME$/git/seqmetrics" />
-            <root type="simple" url="file://$USER_HOME$/git/orders/env/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/git/orders/env/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/git/orders/env/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1896176175" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/orders" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.10 virtualenv at ~/git/ngs_docker/env" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="$USER_HOME$/git/ngs_docker/env/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/git/twistdb" />
-            <root type="simple" url="file://$USER_HOME$/git/ngs_qc" />
-            <root type="simple" url="file://$USER_HOME$/git/ngs_docker/env/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/git/ngs_docker/env/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/git/ngs_docker/env/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-361885679" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/ngs_docker" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.10 virtualenv at ~/git/twistdb/env" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="$USER_HOME$/git/twistdb/env/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/git/Custom_Vector" />
-            <root type="simple" url="file://$USER_HOME$/git/twist-excel" />
-            <root type="simple" url="file://$USER_HOME$/git/twistdb/env/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/git/twistdb/env/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/git/twistdb/env/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/1405255343" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/twistdb" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.10 virtualenv at ~/git/bioscreening/env" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="$USER_HOME$/git/bioscreening/env/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/git/bioscreening/env/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/git/bioscreening/env/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/git/bioscreening/env/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1433844968" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/bioscreening" />
-    </jdk>
-    <jdk version="2">
-      <name value="Remote Python 2.7.5 Vagrant VM at ~/git/orders (/server/orders_venv/bin/python)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.5" />
-      <homePath value="vagrant:///Users/jdiggans/git/orders/server/orders_venv/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/565482476/-46950732" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/565482476/948312952" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/565482476/1646051593" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/565482476/851766302" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/565482476" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional VAGRANT_FOLDER="$USER_HOME$/git/orders" INTERPRETER_PATH="/server/orders_venv/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.5">
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/565482476/-46950732" remote-root="/server/custom_vector" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/565482476/948312952" remote-root="/server/orders_venv/lib64/python2.7" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/565482476/1646051593" remote-root="/usr/lib64/python2.7" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/565482476/851766302" remote-root="/server/orders_venv/lib/python2.7/site-packages" />
-            </list>
-          </option>
-        </PathMappingSettings>
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.10 virtualenv at ~/git/sample_movement_tracker/venv" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="$USER_HOME$/git/sample_movement_tracker/venv/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/git/twistdb" />
-            <root type="simple" url="file://$USER_HOME$/git/ngs_docker" />
-            <root type="simple" url="file://$USER_HOME$/git/sample_movement_tracker/venv/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/git/sample_movement_tracker/venv/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/git/sample_movement_tracker/venv/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/git/sample_movement_tracker/venv/lib/python2.7/site-packages/newrelic-2.46.0.37" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-143075157" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/sample_movement_tracker" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.6 (~/anaconda/bin/python.app)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.6" />
-      <homePath value="$USER_HOME$/anaconda/bin/python.app" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/anaconda/python.app/Contents/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/anaconda/python.app/Contents/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file://$USER_HOME$/anaconda/python.app/Contents/lib/python2.7/plat-mac" />
-            <root type="simple" url="file://$USER_HOME$/anaconda/python.app/Contents/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/anaconda/python.app/Contents/lib/python2.7/lib-tk" />
-            <root type="simple" url="file://$USER_HOME$/anaconda/python.app/Contents/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/PIL" />
-            <root type="simple" url="jar://$USER_HOME$/anaconda/lib/python2.7/site-packages/setuptools-2.2-py2.7.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/665343500" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-1856293957" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
