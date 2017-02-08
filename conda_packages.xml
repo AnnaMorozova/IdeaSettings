@@ -1,0 +1,14 @@
+<application>
+  <component name="PyCondaPackageService">
+    <option name="CONDA_CHANNELS">
+      <set>
+        <option value="http://repo.continuum.io/pkgs/free/win-32/" />
+        <option value="http://repo.continuum.io/pkgs/free/win-32/win-32/" />
+        <option value="http://repo.continuum.io/pkgs/pro/win-32/" />
+        <option value="http://repo.continuum.io/pkgs/pro/win-32/win-32/" />
+        <option value="http://repo.continuum.io/pkgs/pro/win-32/win-32/win-32/" />
+      </set>
+    </option>
+    <option name="LAST_TIME_CHECKED" value="1479727704138" />
+  </component>
+</application>
