@@ -1,1 +1,5 @@
-<keymap version="1" name="Default copy" parent="$default" />
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Macro.folding3">
+    <keyboard-shortcut first-keystroke="d" />
+  </action>
+</keymap>

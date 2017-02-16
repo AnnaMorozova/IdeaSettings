@@ -70,5 +70,14 @@
       <action id="Switcher" />
       <action id="CollapseAllRegions" />
     </macro>
+    <macro name="folding3">
+      <action id="CollapseAllRegions" />
+      <shortuct text="alt RIGHT" />
+      <action id="CollapseAllRegions" />
+      <shortuct text="alt RIGHT" />
+      <action id="CollapseAllRegions" />
+      <shortuct text="alt RIGHT" />
+      <action id="CollapseAllRegions" />
+    </macro>
   </component>
 </application>
