@@ -257,7 +257,7 @@
         <entry key="libwebp" value="0.2.0" />
         <entry key="line_profiler" value="2.0" />
         <entry key="llvm" value="3.3" />
-        <entry key="llvmlite" value="0.15.0" />
+        <entry key="llvmlite" value="0.16.0" />
         <entry key="llvmmath" value="0.1.2" />
         <entry key="llvmpy" value="0.12.7" />
         <entry key="locket" value="0.2.0" />
@@ -549,7 +549,7 @@
         <entry key="nosexcover" value="1.0.11" />
         <entry key="notebook" value="4.3.1" />
         <entry key="nsis" value="3.01" />
-        <entry key="numba" value="0.30.1" />
+        <entry key="numba" value="0.31.0" />
         <entry key="numbapro" value="0.20.0" />
         <entry key="numbapro_cudalib" value="0.2" />
         <entry key="numexpr" value="2.6.2" />
@@ -945,7 +945,7 @@
         <entry key="rasterio" value="0.25.0" />
         <entry key="reportlab" value="3.3.0" />
         <entry key="repoze.lru" value="0.6" />
-        <entry key="requests" value="2.12.4" />
+        <entry key="requests" value="2.13.0" />
         <entry key="requests-file" value="1.4.1" />
         <entry key="requests-kerberos" value="0.8.0" />
         <entry key="responses" value="0.5.1" />
@@ -4013,6 +4013,7 @@
               <option value="0.12.1" />
               <option value="0.15.0" />
               <option value="0.5.0" />
+              <option value="0.16.0" />
             </list>
           </value>
         </entry>
@@ -6302,6 +6303,7 @@
               <option value="0.3.1" />
               <option value="0.17.0" />
               <option value="0.2.dev" />
+              <option value="0.31.0" />
             </list>
           </value>
         </entry>
@@ -9854,6 +9856,7 @@
               <option value="2.12.0" />
               <option value="2.12.1" />
               <option value="1.1.0" />
+              <option value="2.13.0" />
             </list>
           </value>
         </entry>
@@ -11189,6 +11192,6 @@
         <option value="http://repo.continuum.io/pkgs/pro/win-32/win-32/win-32/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1487334568322" />
+    <option name="LAST_TIME_CHECKED" value="1487594362885" />
   </component>
 </application>
