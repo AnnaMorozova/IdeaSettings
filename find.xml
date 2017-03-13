@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[second_project] - ...\nnn.py'" />
-    <option name="defaultScopeName" value="File '[second_project] - ...\nnn.py'" />
+    <option name="customScope" value="File '[second_project] - ...\Moon.py'" />
+    <option name="defaultScopeName" value="File '[second_project] - ...\Moon.py'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[second_project] - ...\nnn.py'" />
+    <option name="SEARCH_SCOPE" value="File '[second_project] - ...\Moon.py'" />
   </component>
 </application>
